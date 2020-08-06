@@ -1,0 +1,30 @@
+inpute[type="text"]{
+    font-size: 20px;
+    width: 400px;
+    min-width: 100px;
+    padding: 5px;
+}
+form h2{
+    color:blue ;
+}
+
+
+.container{
+    width: 50%;
+    margin: auto; 
+    border: 3px solid green;
+    padding: 28px;
+    margin-top: 50px;
+}
+button{
+    background-color: aqua;
+    border:none;
+    color:black;
+    padding: 12px;
+    text-align: center;
+    font-size: 1em;
+    border-radius: 8px;
+}
+#button:hover {
+background-color: blueviolet
+}
